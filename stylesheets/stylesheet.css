@@ -1,12 +1,15 @@
 @import url(http://fonts.googleapis.com/css?family=Leckerli+One);
 @import url(http://fonts.googleapis.com/css?family=Fondamento);
-div {
+body {
   background-color:#FFC833;
 }
 
 img {
   margin : auto;
   display : block;
+  border : 5px dotted black;
+  border-radius: 20px;
+  opacity: 10;
 }
 
 h1 {
